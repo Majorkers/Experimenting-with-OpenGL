@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35906.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphikaProjects2", "GraphikaProjects2\GraphikaProjects2.vcxproj", "{90C108E3-628B-4DA5-801C-60309F11D451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C108E3-628B-4DA5-801C-60309F11D451}.Debug|x64.ActiveCfg = Debug|x64
+		{90C108E3-628B-4DA5-801C-60309F11D451}.Debug|x64.Build.0 = Debug|x64
+		{90C108E3-628B-4DA5-801C-60309F11D451}.Debug|x86.ActiveCfg = Debug|Win32
+		{90C108E3-628B-4DA5-801C-60309F11D451}.Debug|x86.Build.0 = Debug|Win32
+		{90C108E3-628B-4DA5-801C-60309F11D451}.Release|x64.ActiveCfg = Release|x64
+		{90C108E3-628B-4DA5-801C-60309F11D451}.Release|x64.Build.0 = Release|x64
+		{90C108E3-628B-4DA5-801C-60309F11D451}.Release|x86.ActiveCfg = Release|Win32
+		{90C108E3-628B-4DA5-801C-60309F11D451}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F52B8C2D-871B-4E64-9054-EA52C83FFC40}
+	EndGlobalSection
+EndGlobal
